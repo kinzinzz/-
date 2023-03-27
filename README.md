@@ -4,6 +4,4 @@
 - 정보 입력
 - 페이지의 마지막까지 스크롤
 
-
-
-![네이버 항공 검색 자동화](README.assets/네이버 항공 검색 자동화.gif)
+<img src='https://user-images.githubusercontent.com/107156650/227983656-45218fd2-64d8-4822-a7a2-649fa261501a.gif'>
