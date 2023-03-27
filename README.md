@@ -5,5 +5,4 @@
 - 페이지의 마지막까지 스크롤
 
 
-
-![네이버 항공 검색 자동화](README.assets/네이버 항공 검색 자동화.gif)
+[README.md](https://github.com/kinzinzz/Naver-flight-ticket-auto-search/files/11080165/README.md)
